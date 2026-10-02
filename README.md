@@ -285,12 +285,12 @@ Projeto desenvolvido como parte do portfólio de desenvolvimento de soluções d
 - 💡 Soluções para problemas reais
 
 ---
-
 ## 📌 Status do projeto
 
-🟢 **Em desenvolvimento**
+🟢 **Funcional e em evolução**
 
-O sistema está em evolução contínua, recebendo melhorias de funcionalidade, usabilidade, armazenamento de dados e segurança.
+O sistema já foi utilizado em um leilão presencial e continua em evolução,
+com possibilidade de receber novas funcionalidades e melhorias.
 
 ---
 
